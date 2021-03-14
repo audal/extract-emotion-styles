@@ -1,0 +1,22 @@
+{
+  "name": "extract-emotion-styles",
+  "version": "1.0.0",
+  "description": "Extract styles from your emotion-themed components, then get them as CSS Text or re-apply them to a classname of your choosing.",
+  "main": "./index.js",
+  "browser": "./index.js",
+  "keywords": [
+    "emotion"
+  ],
+  "author": "Audal Labs <e@audallabs.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/audal/extract-emotion-styles.git",
+    "directory": "/"
+  },
+  "homepage": "https://github.com/audal/extract-emotion-styles",
+  "peerDependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
